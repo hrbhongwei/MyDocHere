@@ -30,3 +30,7 @@ git add .
 git diff [--cached]
 
 vim esc 或者 ：  w q 
+
+git commit -a 
+
+git rm -------》rm 文件名
