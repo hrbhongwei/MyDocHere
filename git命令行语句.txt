@@ -22,3 +22,9 @@ git clone [url] [name]名字
 git status  状态
 
 git add README
+
+git add .
+
+ cat .gitignore 忽略的文件
+
+git diff [--cached]
