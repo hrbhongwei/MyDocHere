@@ -20,3 +20,5 @@ git clone [url] [name]名字
 （未修改，已修改，放入暂存 是不是工作目录 仓储 分支）
 
 git status  状态
+
+git add README
