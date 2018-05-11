@@ -1,0 +1,22 @@
+git config --global user.name "hrbhongwei"
+
+git config --global user.email hongwei_23@163.com
+
+git config --global core.editor vim
+
+git config --list
+
+git config user.name
+
+git help config     (git help <verb>)
+
+
+在现有目录初始化仓库：
+ git init
+
+ 克隆git上项目：
+git clone [url] [name]名字
+
+（未修改，已修改，放入暂存 是不是工作目录 仓储 分支）
+
+git status  状态
