@@ -28,3 +28,5 @@ git add .
  cat .gitignore 忽略的文件
 
 git diff [--cached]
+
+vim esc 或者 ：  w q 
